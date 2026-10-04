@@ -1,0 +1,3 @@
+name,email,password,title,birth_date,birth_month,birth_year,first_name,last_name,company,address1,address2,country,state,city,zipcode,mobile_number
+Chris Lee,csv.user1@example.com,Pass@1234,Mr,12,April,1990,Chris,Lee,Acme Inc,221 Baker Street,Suite 9,United States,Texas,Austin,73301,5125550100
+Dana Wu,csv.user2@example.com,Pass@1234,Ms,25,September,1994,Dana,Wu,Globex LLC,78 Harbor Road,Unit 3,United States,New York,Albany,12201,5185550175

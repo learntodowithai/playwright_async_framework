@@ -1,0 +1,1 @@
+This is a sample file uploaded through the Automation Exercise contact us form during automated testing.

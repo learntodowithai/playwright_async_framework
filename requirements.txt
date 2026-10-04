@@ -1,0 +1,14 @@
+playwright
+pytest
+pytest-asyncio
+pytest-html
+pytest-xdist
+pytest-rerunfailures
+pytest-metadata
+allure-pytest
+allure-python-commons
+python-dotenv
+requests
+faker
+openpyxl
+pandas

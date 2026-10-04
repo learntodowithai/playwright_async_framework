@@ -1,0 +1,16 @@
+{
+  "contacts": [
+    {
+      "name": "Alice Johnson",
+      "email": "alice.contact@example.com",
+      "subject": "Order enquiry",
+      "message": "Please confirm the delivery date of my recent order."
+    },
+    {
+      "name": "Bob Smith",
+      "email": "bob.contact@example.com",
+      "subject": "Refund request",
+      "message": "I would like to request a refund for the last order placed."
+    }
+  ]
+}
