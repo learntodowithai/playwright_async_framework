@@ -1,0 +1,22 @@
+# Allure reports
+allure-results/
+allure-report/
+allure-reports/
+
+# Pytest reports
+report.html
+log.html
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.env
+.venv/
+venv/
+ENV/
+
+# IDEs
+.vscode/
+.idea/
