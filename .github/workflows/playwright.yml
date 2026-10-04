@@ -26,7 +26,9 @@ jobs:
         pip install -r requirements.txt
 
     - name: Install Playwright Browsers
-      run: playwright install --with-deps
+      run: |
+        python -m playwright install --with-deps
+
 
     - name: Run Tests
       run: pytest --html=report.html
